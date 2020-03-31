@@ -88,3 +88,19 @@ gua hilmy salam kenal
 function(berisik hilmy){
 }
 	udah udahh
+		
+Buat tampilan dokter :
+1. Room chat
+2. Profil
+3.
+Tampilan user :
+1. Cek bmi
+2. Room chat buat dokter
+3. Tampilan barang jualan
+4. Profil
+5. Registrasi 
+Tampilan penjual :
+1. Profil
+2. Input barang
+3. Lihat pendapatan
+4.
