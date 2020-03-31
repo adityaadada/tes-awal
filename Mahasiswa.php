@@ -104,3 +104,4 @@ Tampilan penjual :
 2. Input barang
 3. Lihat pendapatan
 4.
+//adit
